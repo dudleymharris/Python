@@ -6,4 +6,5 @@ def fib(n):
         print(a, end=' ')
         a, b = b, a+b
     print()
-fib(10000)
+c = input("Fibonacci < ")
+fib(float(c))
