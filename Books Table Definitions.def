@@ -1,0 +1,6 @@
+# Schema for Table "Books"
+books.title 125 characters
+books.author 35 characters
+books.read 1 character (y, n, s)
+books.format 6 characters
+books.read_date yyyymmdd
